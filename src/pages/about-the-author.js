@@ -9,7 +9,7 @@ const abouttheauthor= (props) =>{
 
 	const bannerText = (
 		<>
-			<span className="banr-tagline-fx">Valentine Cardinale</span>
+			<span className="banr-tagline-fx">Thomas E. Martin</span>
 			<h1 className="banr-header-fx">
 				About the
 				<span className="banr-spn-highlight">Author</span>

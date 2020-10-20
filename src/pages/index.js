@@ -18,7 +18,7 @@ const IndexPage = (props) => {
 				<span className="banr-spn-highlight">but the wicked stumble when calamity strikes.</span>
 
 				<p className="paragraph-content">
-					Back Door to Mars is set in the mid-twenty-first century and begins in the Appalachian Mountains, progresses to Washington, DC, and concludes with some amazing adventures and discoveries on the planet Mars. 
+				As The Megalosaur swallowed her husband then turned toward Winona, she screamed “no way you’re having me for dessert you monster, as she fired the laser rifle.
 				</p>
 
 				<Link

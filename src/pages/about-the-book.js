@@ -17,7 +17,7 @@ const abouttheauthor= (props) =>{
 
 	const bannerText = (
 		<>
-			<span className="banr-tagline-fx">Valentine Cardinale</span>
+			<span className="banr-tagline-fx">Thomas E. Martin</span>
 			<h1 className="banr-header-fx">
 				About the
 				<span className="banr-spn-highlight">Book</span>
@@ -62,7 +62,7 @@ const abouttheauthor= (props) =>{
 										</nav>
 
 										<nav className="booklinkBlocks">
-											<span>Purchase Paperbook :</span>
+											<span>Purchase Paperback :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/dp/1643457144/ref=sr_1_1?keywords=9781643457147&qid=1580496218&sr=8-1">Amazon</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/back-door-to-mars-thomas-e-martin/1136287280?ean=9781643457147">Barnes & Noble </a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Back-Door-Mars/Thomas-E-Martin/9781643457147?id=8009965417365&_ga=2.93999774.2077251330.1602668715-1770015116.1600996550">Books A Million</a></li>

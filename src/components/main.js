@@ -25,19 +25,10 @@
  				  	</p>
 
  				  	<p>
- 					  Was born in New York City on February 14, 1935. 
- 					  His parents were both hard working Italian immigrants who owned a deli on the West Side of 
- 					  Manhattan known as Hell’s Kitchen. Cardinale often helped his parents with their business
- 					  but all the while he dreamt of becoming a baseball or hockey player. 
- 					  He was an avid New York Rangers fan as well as a New York Yankees fan.
+ 					  My name is Thomas, I grew up in the low laying areas of the Smoky Mountains in East Tennessee, as the son of a farmer and eventually the oldest of ten, five boys and five girls. We were very poor during those years. Milking cows, putting up hay, working in the tobacco field and going to school took up most of my time until joining the military at age seventeen.
 					</p>
 
-					<p>
- 				  		Val attended Cardinal Hayes High School, Bronx, and then Iona College
- 				  		in New Rochelle, NY earning a Bachelor of Arts degree in English Language/Literature.
-					</p>
-
-					<button className="btn-main-customize"><Link> Read More</Link></button>
+					<button className="btn-main-customize"><Link to="/about-the-author"> Read More</Link></button>
 
  				 </div>
  			</div>

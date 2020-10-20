@@ -46,14 +46,14 @@ const mainbottom = () =>{
 							      </div>
 
 							      <div className="media-content">
-							        <p className="title is-4">Valentine Cardinale</p>
-							        <p className="subtitle is-6">@thewestside</p>
+							        <p className="title is-4">Thomas E. Martin</p>
+							        <p className="subtitle is-6"></p>
 							      </div>
 							    </div>
 
 							    <div className="content">
 							      	<p>
-									  My name is Thomas, I grew up in the low laying areas of the Smoky Mountains in East Tennessee, as the son of a farmer and eventually the oldest of ten, five boys and five girls. We were very poor during those years. Milking cows, putting up hay, working in the tobacco field and going to school took up most of my time until joining the military at age seventeen.
+									  Back Door to Mars is set in the mid-twenty-first century and begins in the Appalachian Mountains, progresses to Washington, DC, and concludes with some amazing adventures and discoveries on the planet Mars. 
 							      		<span className="btn-redirect"> <Link to="/about-the-book">Read More</Link></span>
 							      	</p>
 							    </div>
@@ -83,7 +83,7 @@ const mainbottom = () =>{
 
 		<div class="feautured-links-logo">
 
-			<p>Thomas E. Martin has been featured numerous time on...</p>
+			<p>Thomas E. Martin has been featured numerous times on...</p>
 			
  			<ul>
  				<li><img alt="" src={amazon} /></li>
