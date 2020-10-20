@@ -14,8 +14,8 @@ const IndexPage = (props) => {
 			<span className="banr-tagline-fx">Tagline</span>
 
 			<h1 className="front-banr-header-fx">
-				For though the righteous fall seven times, they rise again,
-				<span className="banr-spn-highlight">but the wicked stumble when calamity strikes.</span>
+			I knew it … it is possible to travel between dimensions.
+				<span className="banr-spn-highlight">This is the best day of my life”.</span>
 
 				<p className="paragraph-content">
 				As The Megalosaur swallowed her husband then turned toward Winona, she screamed “no way you’re having me for dessert you monster, as she fired the laser rifle.
