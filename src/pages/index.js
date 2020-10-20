@@ -15,7 +15,7 @@ const IndexPage = (props) => {
 
 			<h1 className="front-banr-header-fx">
 			I knew it … it is possible to travel between dimensions.
-				<span className="banr-spn-highlight">This is the best day of my life”.</span>
+				<span className="banr-spn-highlight">This is the best day of my life.</span>
 
 				<p className="paragraph-content">
 				As The Megalosaur swallowed her husband then turned toward Winona, she screamed “no way you’re having me for dessert you monster, as she fired the laser rifle.
