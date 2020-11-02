@@ -53,7 +53,7 @@ const abouttheauthor= (props) =>{
 									We were very poor during those years. Milking cows, putting up hay, working in the tobacco field and going to school took up most of my time until joining the military at age seventeen. 
 								</p>
 								<p>
-									It was the first time that I had ever been away from home. But for the harassments of the instructors, I actually enjoyed the twelve weeks of basic training at a military in Texas, where for the first time ever, I became friends with a small group of black men who could make up a song about anything, a bar of soap or a pair of shoes or a bad situation etc. 
+									It was the first time that I had ever been away from home. But for the harassments of the instructors, I actually enjoyed the twelve weeks of basic training at a military base in Texas, where for the first time ever, I became friends with a small group of black men who could make up a song about anything, a bar of soap or a pair of shoes or a bad situation etc. 
 								</p>
 								<p>	
 									And they would sing it as though it was a quality song but always made it come across as funny. Meanwhile, while completing my initial training in Illinois to be an aircraft engine mechanic and during a mandatory visit to the base education office, the Lady in charge of that office indicated that I should take a GED test. She obviously had seen from my records that I had quit school in the tenth grade; so, I took the test. 
