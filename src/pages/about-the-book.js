@@ -57,7 +57,7 @@ const abouttheauthor= (props) =>{
 										<nav className="booklinkBlocks">
 										    <span>Ebooks :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Back-Door-Mars-Scientist-Bargained-ebook/dp/B084CZCMF4/ref=sr_1_1?keywords=9781643458649&qid=1580496175&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/back-door-to-mars-after-his-dream-to-go-to-mars-is-thwarted-a-young-scientist-gets-unusual-second-chance-but-finds-far-more-than-he-bargained-for/">Stratton Press</a></li>
+											{/*<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/back-door-to-mars-after-his-dream-to-go-to-mars-is-thwarted-a-young-scientist-gets-unusual-second-chance-but-finds-far-more-than-he-bargained-for/">Stratton Press</a></li>*/}
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/back-door-to-mars-thomas-e-martin/1136287280?ean=9781643458649">Barnes & Noble</a></li>
 										</nav>
 
